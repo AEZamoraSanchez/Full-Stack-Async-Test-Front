@@ -1,0 +1,8 @@
+.sectionList {
+     background-color: rgb(139, 139, 255);
+     padding: 10px;
+     display: grid;
+     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+     grid-template-rows: repeat(auto-fill, minmax(160px, 1fr));
+     gap: 15px;
+}
